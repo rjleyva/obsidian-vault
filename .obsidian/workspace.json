@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/14-neovim/Overview.md",
+                "file": "00-Inbox/Learn Pyhton.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Learn Pyhton"
             }
           }
         ]
@@ -214,17 +214,17 @@
   },
   "active": "8a99358753810601",
   "lastOpenFiles": [
-    "04-Templates/05-eslint/19-react-eslint.config.js.md",
-    "03-Projects/14-neovim/Overview.md",
-    "03-Projects/14-neovim",
     "00-Inbox/Learn Supabase.md",
+    "00-Inbox/Learn Pyhton.md",
+    "00-Inbox/2026-01-09.md",
+    "03-Projects/14-neovim/Overview.md",
+    "04-Templates/05-eslint/19-react-eslint.config.js.md",
+    "03-Projects/14-neovim",
     "04-Templates/16-prettier/prettier.config.ts.md",
     "04-Templates/05-eslint/01-astro-eslint.config.js.md",
-    "00-Inbox/Learn Pyhton.md",
     "05-Writing/02-Blog/16-published/00-avoid-transition-all-prevent-flicker-in-CSS -animations.md",
     "03-Projects/18-rjleyva-rewrite/01-1-workspace-configuration.md",
     "03-Projects/18-rjleyva-rewrite/01-root-setup.md",
-    "00-Inbox/2026-01-09.md",
     "02-References/20-tanstack-router.md",
     "03-Projects/18-rjleyva-writes/09-Initial Structure.md",
     "02-References/16-prettier.md",
