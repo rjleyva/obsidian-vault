@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Simple",
+  "theme": "obsidian",
+  "accentColor": "",
+  "translucency": false,
+  "showViewHeader": false,
+  "showRibbon": false,
+  "nativeMenus": true,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "baseFontSize": 18
+}
