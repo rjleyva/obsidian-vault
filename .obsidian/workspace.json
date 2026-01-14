@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4f777052df285209",
+        "id": "8b04638fafc29ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "8a99358753810601",
+            "id": "57a53df1fc534b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Learn Pyhton.md",
+                "file": "02-References/05-eslint.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Learn Pyhton"
+              "title": "05-eslint"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "fc650f7afd7b8eda",
+            "id": "a3becca3ffe8f8f2",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 551.5
+    "width": 546.5
   },
   "right": {
     "id": "bb5306794506b54c",
@@ -198,6 +198,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "notebook-navigator:Notebook Navigator": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -206,44 +209,41 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "zk-prefixer:Create new unique note": false,
-      "notebook-navigator:Notebook Navigator": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8a99358753810601",
+  "active": "57a53df1fc534b27",
   "lastOpenFiles": [
+    "02-References/16-prettier.md",
+    "02-References/05-eslint.md",
+    "04-Templates/19-react-eslint.config.ts.md",
+    "04-Templates/05-eslint/19-react-eslint.config.js.md",
+    "04-Templates/05-eslint/01-astro-eslint.config.js.md",
+    "04-Templates/16-prettier/prettier.config.ts.md",
+    "00-Inbox/2026-01-13.md",
     "00-Inbox/Learn Supabase.md",
+    "04-Templates/16-prettier/prettierrc.yaml.md",
+    "03-Projects/19-salary.com/CompAnalyst AI Suite.md",
+    "03-Projects/19-salary.com/CompData Survey.md",
+    "03-Projects/19-salary.com/CompAnalyst Market Data.md",
+    "03-Projects/19-salary.com/Dagger Icon Explanation.md",
+    "00-Inbox/2026-01-12.md",
     "00-Inbox/Learn Pyhton.md",
+    "05-Writing/02-Blog/09-in-progress/03-how-i-learn-typescript-through-constraints-not-tutorials.md",
+    "05-Writing/02-Blog/09-in-progress/04-how-i-secure-markdown-processing-for-my-blog.md",
     "00-Inbox/2026-01-09.md",
     "03-Projects/14-neovim/Overview.md",
-    "04-Templates/05-eslint/19-react-eslint.config.js.md",
     "03-Projects/14-neovim",
-    "04-Templates/16-prettier/prettier.config.ts.md",
-    "04-Templates/05-eslint/01-astro-eslint.config.js.md",
     "05-Writing/02-Blog/16-published/00-avoid-transition-all-prevent-flicker-in-CSS -animations.md",
     "03-Projects/18-rjleyva-rewrite/01-1-workspace-configuration.md",
     "03-Projects/18-rjleyva-rewrite/01-root-setup.md",
     "02-References/20-tanstack-router.md",
     "03-Projects/18-rjleyva-writes/09-Initial Structure.md",
-    "02-References/16-prettier.md",
-    "02-References/05-eslint.md",
     "03-Projects/18-rjleyva-rewrite/02-client-setup.md",
     "00-Inbox/2026-01-08.md",
-    "03-Projects/19-salary.com/Pay Equity Management.md",
-    "03-Projects/19-salary.com/Salary IQ.md",
-    "03-Projects/19-salary.com/CompAnalyst AI Suite.md",
-    "00-Inbox/2026-01-07.md",
-    "03-Projects/19-salary.com/CompAnalyst Market Data.md",
-    "03-Projects/18-rjleyva-rewrite/03-server-setup.md",
-    "03-Projects/18-rjleyva-rewrite/00-notes.md",
-    "04-Templates/16-prettier/prettierrc.json.md",
-    "04-Templates/16-prettier/prettierrc.yaml.md",
     "04-Templates/05-eslint",
     "03-Projects/18-rjleyva-writes",
     "04-Templates/18-react",
-    "05-Writing/02-Blog/09-in-progress/07-what-2025-taught-me-as-a-frontend-developer.md",
     "04-Templates/01-astro",
     "05-Writing/02-Blog",
     "04-Templates/05-ESLint",
